@@ -9,7 +9,7 @@ A modern starter template for building React applications with **Redux**, **Redu
 
 You can check out the live demo of this application hosted on Netlify:
 
-[View Demo](https://your-netlify-demo-link)
+[View Demo](https://6787ef3b6be70e0008aa1c14--whimsical-dusk-0622d9.netlify.app)
 
 ---
 
